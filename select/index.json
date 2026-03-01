@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "灼熱スイッチ(Instrumental)",
+  "base_artist": "雀が原中学卓球部",
+  "createdAt": "2026-03-01T13:29:22.470856Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "灼熱スイッチ - Instrumental",
+      "artist": "雀が原中学卓球部",
+      "has_synced": false,
+      "path": "select/pl_01_灼熱スイッチ_-_Instrumental_雀が原中学卓球部.txt"
+    }
+  ]
+}
